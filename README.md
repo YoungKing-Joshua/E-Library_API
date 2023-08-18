@@ -22,13 +22,13 @@ This project is an API for managing a library of books. It's built using the Nes
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/books-library-api.git
+   git clone https://github.com/YoungKing-Joshua/E-Library_API.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd books-library-api
+   cd E-Library_API
    ```
 
 3. Install dependencies:
